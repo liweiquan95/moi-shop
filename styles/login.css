@@ -16,6 +16,14 @@ header h2{
 	font-size: 18px;
 	font-weight: 400;
 }
+header h2 a {
+ 	float: left;
+	margin: 6px 0 0 10px;
+	width: 16px;
+	height: 30px;
+	background: url(../images/back.png);
+	background-size: 16px 30px;
+ }
 .myLogin{
 	padding-top: 150px;
 	width: 100%;
